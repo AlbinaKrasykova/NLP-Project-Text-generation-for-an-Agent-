@@ -1,3 +1,20 @@
 # NLP-Project-AI chatbot(Agent WorkFlow automatization)-
 Helping to automate agent workflow and increase the efficiency 
-![image](https://user-images.githubusercontent.com/91033995/206954164-b9c1f228-40fa-4934-91e1-709ab104ff2e.png)
+
+The goal of our challenge is to develop 
+a NLP machine learning model
+that suggests words and phrases to an agent 
+
+
+
+Business Impact
+
+Improve time needed for response generation
+Improve customer experience
+Lessen burden on agents when replying to customers
+
+Solution Breakdown: 
+
+Part 1 
+
+Part 2
