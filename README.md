@@ -1,7 +1,7 @@
 # NLP-Project-AI chatbot(Agent WorkFlow automatization)-
-Helping to automate agent workflow and increase the efficiency 
 
-The goal of our challenge is to develop 
+
+The goal of the NLP AI chatBot project is to develop 
 a NLP machine learning model
 that suggests words and phrases to an agent 
 
