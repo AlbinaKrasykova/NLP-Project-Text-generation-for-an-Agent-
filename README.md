@@ -15,9 +15,9 @@ Lessen burden on agents when replying to customers
 
 I was working independently under supervision of ASAPP advisor Heather Reed to develop an efficient solution for Agent workflow Optimization.
 To make the workflow more efficient, and less costly: I decided to divide the project on 2 main parts:
-Part #1 – consisted of the pipeline for clusters production for 2 separate cvs files (clusters for agent and clusters for a customer which contained)
+# Part #1 – consisted of the pipeline for clusters production for 2 separate cvs files (clusters for agent and clusters for a customer which contained)
 ![](https://github.com/AlbinaKrasykova/NLP-Project-Text-generation-for-an-Agent-/blob/main/Demo%20part%201%20agent%20automation.gif)
-Part #2 – creating a new data frame with the most relevant features and building model, getting predictions
+# Part #2 – creating a new data frame with the most relevant features and building model, getting predictions
 ![](https://github.com/AlbinaKrasykova/NLP-Project-Text-generation-for-an-Agent-/blob/main/Demo%20part%202%20agent%20automation%20solution.gif)
 And picking most relevant sentences based on cosine similarity.   
 
