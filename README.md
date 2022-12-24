@@ -18,7 +18,7 @@ To make the workflow more efficient, and less costly: I decided to divide the pr
 Part #1 – consisted of the pipeline for clusters production for 2 separate cvs files (clusters for agent and clusters for a customer which contained)
 ![](Demo part 1 agent automation.gif)
 Part #2 – creating a new data frame with the most relevant features and building model, getting predictions
-![](Demo part 2 agent automation solution.gif)
+![](https://github.com/AlbinaKrasykova/NLP-Project-Text-generation-for-an-Agent-/blob/main/Demo%20part%202%20agent%20automation%20solution.gif)
 And picking most relevant sentences based on cosine similarity.   
 
 -	Data Analysis of synthetic developed 10K Dataset (Agent & Customer dialogue)
