@@ -1,5 +1,6 @@
 # NLP-Project-AI chatbot(Agent WorkFlow automatization)-
 
+![](https://github.com/AlbinaKrasykova/NLP-Project-Text-generation-for-an-Agent-/blob/main/AI.png) 
 
 The goal of the NLP AI chatBot project is to develop 
 a NLP machine learning model
